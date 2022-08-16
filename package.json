@@ -1,0 +1,25 @@
+{
+  "name": "postcss-deep-dive",
+  "version": "1.0.0",
+  "description": "PostCSS takes CSS and turns it into a form of data that JavaScript can manipulate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuying547/postcss-deep-dive.git"
+  },
+  "keywords": [],
+  "author": "zhuying547 <zhuying547@qq.com> (https://github.com/zhuying547)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuying547/postcss-deep-dive/issues"
+  },
+  "homepage": "https://github.com/zhuying547/postcss-deep-dive#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.1"
+  }
+}
